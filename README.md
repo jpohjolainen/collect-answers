@@ -16,7 +16,7 @@ $ ./collect-answers.py questions.txt person1.txt person2.txt ...
 Answers are split into separate files based on the questions. Name of the files
 are starting with character 'q' and then numeber in the question file and
 15 first characters of the question separated by a dash.
-f.ex. 'q-1-what-do-you-do.txt'
+f.ex. 'q-1_what-do-you-do.txt'
 
 ### Question file format
 
